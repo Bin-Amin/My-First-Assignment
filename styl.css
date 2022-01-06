@@ -7,7 +7,7 @@ font-family: 'Poppins', sans-serif;
 .center{
     display: flex;
     margin-bottom: 135px;
-    background-image: url(shape-6.png);
+    background-image: url(shape-9.png);
     background-repeat: no-repeat;
     font: 500 100%/1.5 system-ui;
 }
@@ -165,3 +165,57 @@ font-family: 'Poppins', sans-serif;
    padding-left: 30px;
    padding-right: 25px ;
     }
+   
+    .center-5{
+        width: 53%;
+        margin-left: 5%;
+        margin-right: 10%;
+        margin-bottom: 100px;
+        padding-left: 25px;
+       box-shadow: 10px 10px 20px;
+       border-radius: 10px 20px 30px 40px;
+       background-image: url(shape-3.png);
+       background-repeat: no-repeat;
+    }
+
+    .Navas{
+        color: rgb(75, 194, 158);
+    }
+
+    .photo-4{
+        max-width: 35%;
+        flex-basis:30%;
+        display: flex;
+        flex-basis:50%;
+        margin-top: 8%;
+        margin-right: 2em;
+        padding-bottom: 6em;
+           
+    }
+
+
+        .motivated{
+            text-align: center;
+            color:rgb(60, 96, 214);
+    border-top-left-radius: 100%;
+
+        }
+        .learning{
+            color: rgb(75, 194, 158);
+        }
+
+        .end{
+            color: rgb(233, 77, 108);
+        }
+
+        
+
+       .f-assignment-end{
+        text-align:center;
+        background-color: rgb(6, 6, 14) ;
+            color: whitesmoke;
+            padding-top: 50px;
+       }
+
+
+    
