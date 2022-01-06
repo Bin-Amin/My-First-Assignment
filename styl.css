@@ -9,6 +9,7 @@ font-family: 'Poppins', sans-serif;
     margin-bottom: 135px;
     background-image: url(shape-6.png);
     background-repeat: no-repeat;
+    font: 500 100%/1.5 system-ui;
 }
     h1{
         margin: 0%;
@@ -53,18 +54,19 @@ font-family: 'Poppins', sans-serif;
     text-align: center;
     color:rgb(60, 96, 214);
     border-top-left-radius: 100%;
+    
 }
     .center-2{
             display: flex;
             
             margin-top: 50px;
             margin-bottom: 100px;
-            
             padding-right: 100px;
             padding-left: 50px;
             padding-top: 100px;
             padding-bottom: 100px;
             background-image: url(shape-2.png);
+            font: 500 100%/1.5 system-ui;
     }
 .illustrator-1{
     width: 50%;
@@ -109,6 +111,7 @@ font-family: 'Poppins', sans-serif;
         font: 500 100%/1.5 system-ui;
         background-image: url(shape-1.png);
         background-repeat: no-repeat;
+       
 
       
         
@@ -116,7 +119,7 @@ font-family: 'Poppins', sans-serif;
         
     }
     .paragraph-photo-2{    
-        max-width: 45%;
+        max-width: 35%;
         flex-basis:30%;
  
     }
@@ -128,4 +131,33 @@ font-family: 'Poppins', sans-serif;
 
     }
 
-    
+    .center-4{
+        display: flex;
+        flex-basis:50%;
+        padding-left: 20px;
+        border-left-width: 20px;
+        width: 60%;
+        padding-left: 30%;
+        padding-right: 80%;
+        margin-top:12%;
+        font: 500 100%/1.5 system-ui;
+        background-image: url(shape-5.png);
+        background-repeat: no-repeat;
+       
+    }
+    h2{
+        font-size: 30px;
+    }
+    .paragraph-photo-3{
+        max-width: 35%;
+        flex-basis:30%;
+        
+
+    }
+    .documentation-2{
+        background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
+   border-radius: 5%;
+   margin-right: 550px;
+   padding-left: 50px;
+   padding-right: 10px ;
+    }
