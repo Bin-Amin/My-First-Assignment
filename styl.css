@@ -1,0 +1,93 @@
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+.center{
+    display: flex;
+    margin-bottom: 135px;
+}
+    h1{
+        margin: 0%;
+        padding-left: 10px;
+        border-left-width: 4px;
+        border-left: 5px solid rgb(7, 241, 241);
+          
+    }
+
+.mission-2022{
+    color: rgb(75, 194, 158);
+    
+}
+.paragraph-photo{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top:10%;
+    
+       
+}
+ 
+    .paragraph-photo img{   
+       height: 400px;
+       box-shadow: 5px 5px 10px;
+       border-radius: 10px 10px 10px 10px;
+       margin-left: 5%;
+           
+    }
+.explore{
+   background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
+   border-radius: 4%;
+   padding-left: 10%;
+   margin-right: 50%;
+}
+.in-2022{
+    color: rgb(75, 194, 158); 
+   
+}
+.my-mission{
+    text-align: center;
+    color:rgb(60, 96, 214);
+    border-top-left-radius: 100%;
+}
+    .center-2{
+            display: flex;
+            
+            margin-top: 50px;
+            margin-bottom: 200px;
+            
+            padding-right: 100px;
+            padding-left: 50px;
+            padding-top: 100px;
+            padding-bottom: 100px;
+    }
+.illustrator-1{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+   box-shadow: 1px 1px 10px;
+   border-radius: 10px 20px 30px 40px;
+}
+
+    .illustrator-2{
+        width: 50%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+       box-shadow: 1px 1px 10px;
+       border-radius: 10px 20px 30px 40px; 
+    }
+    .illustrator-3{
+        width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+   box-shadow: 1px 1px 10px;
+   border-radius: 10px 20px 30px 40px;
+    }
+    
+    .logo-photo{
+        width: 80%;
+
+    }
