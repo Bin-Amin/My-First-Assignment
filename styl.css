@@ -75,6 +75,7 @@ font-family: 'Poppins', sans-serif;
     padding-left: 20px;
    box-shadow: 1px 1px 10px;
    border-radius: 10px 20px 30px 40px;
+   background-color: rgb(231, 213, 213);
 }
 
     .illustrator-2{
@@ -83,7 +84,8 @@ font-family: 'Poppins', sans-serif;
         margin-right: 5%;
         padding-left: 20px;
        box-shadow: 1px 1px 10px;
-       border-radius: 10px 20px 30px 40px; 
+       border-radius: 10px 20px 30px 40px;
+       background-color: rgb(189, 228, 228); 
     }
     .illustrator-3{
         width: 50%;
@@ -92,6 +94,7 @@ font-family: 'Poppins', sans-serif;
     padding-left: 20px;
    box-shadow: 1px 1px 10px;
    border-radius: 10px 20px 30px 40px;
+   background-color: rgb(124, 127, 128);
     }
     
     .logo-photo{
@@ -126,7 +129,7 @@ font-family: 'Poppins', sans-serif;
     .documentation{
         background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
    border-radius: 4%;
-   margin-right: 200px;
+   margin-right: 280px;
    padding-left: 20px;
 
     }
@@ -156,8 +159,9 @@ font-family: 'Poppins', sans-serif;
     }
     .documentation-2{
         background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
-   border-radius: 5%;
-   margin-right: 550px;
-   padding-left: 50px;
-   padding-right: 10px ;
+   border-radius: 4%;
+   margin-right: 530px;
+   margin-left: 65px ;
+   padding-left: 30px;
+   padding-right: 25px ;
     }
