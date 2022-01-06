@@ -41,10 +41,12 @@ font-family: 'Poppins', sans-serif;
     }
 .explore{
    background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
-   border-radius: 5%;
-   padding-left: 5%;
-   padding-right: 5%;
-   margin-right: 63%;
+   font-family: sans-serif;
+   color:white;
+   font-weight: 700;
+   text-decoration: none;
+   padding: 10px 40px;
+   border-radius: 5px;
 }
 .in-2022{
     color: rgb(75, 194, 158); 
@@ -128,9 +130,12 @@ font-family: 'Poppins', sans-serif;
     }
     .documentation{
         background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
-   border-radius: 4%;
-   margin-right: 280px;
-   padding-left: 20px;
+        font-family: sans-serif;
+        color:white;
+        font-weight: 700;
+        text-decoration: none;
+        padding: 10px 40px;
+        border-radius: 5px;
 
     }
 
@@ -159,11 +164,12 @@ font-family: 'Poppins', sans-serif;
     }
     .documentation-2{
         background-image: linear-gradient(rgb(35, 204, 35),rgb(171, 179, 182));
-   border-radius: 4%;
-   margin-right: 530px;
-   margin-left: 65px ;
-   padding-left: 30px;
-   padding-right: 25px ;
+        font-family: sans-serif;
+        color:white;
+        font-weight: 700;
+        text-decoration: none;
+        padding: 10px 40px;
+        border-radius: 5px;
     }
    
     .center-5{
